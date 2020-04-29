@@ -1,7 +1,13 @@
+/*
+Kyle Gorman and Will Eccles
+SER492 Senior Capstone
+Major and Minor Intron Dataset
+Create procedure for inserting gene sequences
+*/
 USE [IntronDB]
 GO
 
-/****** Object:  StoredProcedure [dbo].[insertGeneSequence]    Script Date: 4/29/2020 2:12:24 PM ******/
+/****** Object:  StoredProcedure [dbo].[insertGeneSequence]    Script Date: 4/29/2020 2:34:23 PM ******/
 SET ANSI_NULLS ON
 GO
 

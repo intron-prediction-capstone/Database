@@ -1,7 +1,13 @@
+/*
+Kyle Gorman and Will Eccles
+SER492 Senior Capstone
+Major and Minor Intron Dataset
+Create procedure for searching the database
+*/
 USE [IntronDB]
 GO
 
-/****** Object:  StoredProcedure [dbo].[SearchProcedure]    Script Date: 4/29/2020 2:12:30 PM ******/
+/****** Object:  StoredProcedure [dbo].[SearchProcedure]    Script Date: 4/29/2020 2:34:19 PM ******/
 SET ANSI_NULLS ON
 GO
 

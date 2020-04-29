@@ -1,7 +1,13 @@
+/*
+Kyle Gorman and Will Eccles
+SER492 Senior Capstone
+Major and Minor Intron Dataset
+Create table for Species table
+*/
 USE [IntronDB]
 GO
 
-/****** Object:  Table [dbo].[Species]    Script Date: 4/29/2020 2:11:46 PM ******/
+/****** Object:  Table [dbo].[Species]    Script Date: 4/29/2020 2:33:26 PM ******/
 SET ANSI_NULLS ON
 GO
 

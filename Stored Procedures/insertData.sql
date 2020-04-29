@@ -1,7 +1,13 @@
+/*
+Kyle Gorman and Will Eccles
+SER492 Senior Capstone
+Major and Minor Intron Dataset
+Create procedure for inserting entries from gtf files
+*/
 USE [IntronDB]
 GO
 
-/****** Object:  StoredProcedure [dbo].[InsertData]    Script Date: 4/29/2020 2:13:10 PM ******/
+/****** Object:  StoredProcedure [dbo].[InsertData]    Script Date: 4/29/2020 2:34:14 PM ******/
 SET ANSI_NULLS ON
 GO
 

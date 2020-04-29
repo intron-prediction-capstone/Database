@@ -1,7 +1,13 @@
+/*
+Kyle Gorman and Will Eccles
+SER492 Senior Capstone
+Major and Minor Intron Dataset
+Create table for Score table
+*/
 USE [IntronDB]
 GO
 
-/****** Object:  Table [dbo].[Score]    Script Date: 4/29/2020 2:11:29 PM ******/
+/****** Object:  Table [dbo].[Score]    Script Date: 4/29/2020 2:32:56 PM ******/
 SET ANSI_NULLS ON
 GO
 

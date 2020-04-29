@@ -1,7 +1,13 @@
+/*
+Kyle Gorman and Will Eccles
+SER492 Senior Capstone
+Major and Minor Intron Dataset
+Database File
+*/
 USE [master]
 GO
 
-/****** Object:  Database [IntronDB]    Script Date: 4/29/2020 2:09:26 PM ******/
+/****** Object:  Database [IntronDB]    Script Date: 4/29/2020 2:29:53 PM ******/
 CREATE DATABASE [IntronDB]
  CONTAINMENT = NONE
  ON  PRIMARY 
