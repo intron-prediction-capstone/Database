@@ -15,7 +15,7 @@ var config = {
     password: 'admin'
 };
 
-var server = app.listen(8081, function () {
+var server = app.listen(8080, function () {
     var host = server.address().address
     var port = server.address().port
 
@@ -28,7 +28,7 @@ const LineByLineReader = require('line-by-line'),
 
 //number of lines to read in
 //if set to -1 will run entire file
-var lines = 5;
+var lines = 100;
 var counter0 = 0;
 
 //reads in gtf files
